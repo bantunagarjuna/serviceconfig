@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related BANTU APIs "
+  message: "Welcome to EazyBank accounts related bantu APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}53f204daa1b6dcce862abae51f01270bceb64e18e3539c1b27bd552408e2aef1eb1a3a9a73b5f3892c86cccdf09985a4"
